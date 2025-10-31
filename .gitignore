@@ -1,0 +1,25 @@
+# Unreal Engine generated files
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Visual Studio/Rider/Xcode
+.vs/
+.vscode/
+.idea/
+*.VC.db
+*.VC.db-shm
+*.VC.db-wal
+*.sln
+*.suo
+*.sdf
+*.user
+*.userprefs
+*.xcodeproj
+*.xcworkspace
+
+# Other
+*.log
+*.log.csv

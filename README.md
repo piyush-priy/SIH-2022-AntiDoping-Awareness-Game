@@ -142,10 +142,9 @@ If the repository includes a packaged build (e.g., under `Build/WindowsNoEditor/
 - Large binary assets should be tracked with Git LFS (e.g., `*.uasset`, `*.umap`, `*.wav`, `*.fbx`).
 - Prefer keeping `Binaries/`, `DerivedDataCache/`, `Intermediate/`, and `Saved/` out of source control.
 
-## License and acknowledgements
+## Acknowledgements
 
 - Built for Smart India Hackathon 2022 — Problem Statement: Gamifying Anti‑Doping Awareness.
-- License: Add your preferred license here (e.g., MIT/Apache‑2.0/Proprietary). If unsure, start with an open‑source license compatible with game assets you include.
 
 ---
 

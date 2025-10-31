@@ -75,7 +75,7 @@ winget install Git.Git -e ; winget install GitHub.GitLFS -e
 git lfs install
 
 # Clone
-git clone https://github.com/<your-org-or-user>/SIH-2022-AntiDoping-Awareness-Game.git
+git clone https://github.com/piyush-priy/SIH-2022-AntiDoping-Awareness-Game.git
 cd SIH-2022-AntiDoping-Awareness-Game
 ```
 
